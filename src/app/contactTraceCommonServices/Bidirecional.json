@@ -1,0 +1,214 @@
+{
+    "A3": {
+      "A5": {
+        "index": 0,
+        "source": "A5",
+        "target": "A3",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A5",
+        "Target": "A3"
+      },
+      "A7": {
+        "index": 1,
+        "source": "A3",
+        "target": "A7",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A3",
+        "Target": "A7"
+      }
+    },
+    "A5": {
+      "A3": {
+        "index": 0,
+        "source": "A5",
+        "target": "A3",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A5",
+        "Target": "A3"
+      },
+      "A10": {
+        "index": 2,
+        "source": "A5",
+        "target": "A10",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A5",
+        "Target": "A10"
+      }
+    },
+    "A7": {
+      "A3": {
+        "index": 1,
+        "source": "A3",
+        "target": "A7",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A3",
+        "Target": "A7"
+      }
+    },
+    "A10": {
+      "A5": {
+        "index": 2,
+        "source": "A5",
+        "target": "A10",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A5",
+        "Target": "A10"
+      },
+      "A4": {
+        "index": 3,
+        "source": "A10",
+        "target": "A4",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A10",
+        "Target": "A4"
+      },
+      "A6": {
+        "index": 4,
+        "source": "A10",
+        "target": "A6",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A10",
+        "Target": "A6"
+      }
+    },
+    "A4": {
+      "A10": {
+        "index": 3,
+        "source": "A10",
+        "target": "A4",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A10",
+        "Target": "A4"
+      }
+    },
+    "A6": {
+      "A10": {
+        "index": 4,
+        "source": "A10",
+        "target": "A6",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A10",
+        "Target": "A6"
+      },
+      "A8": {
+        "index": 5,
+        "source": "A8",
+        "target": "A6",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A8",
+        "Target": "A6"
+      },
+      "A9": {
+        "index": 6,
+        "source": "A6",
+        "target": "A9",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A6",
+        "Target": "A9"
+      }
+    },
+    "A8": {
+      "A6": {
+        "index": 5,
+        "source": "A8",
+        "target": "A6",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A8",
+        "Target": "A6"
+      }
+    },
+    "A9": {
+      "A6": {
+        "index": 6,
+        "source": "A6",
+        "target": "A9",
+        "visible": true,
+        "cluster": 1,
+        "origin": [
+          "Numbers_bidirectional_link.csv"
+        ],
+        "hasDistance": false,
+        "distance": 0,
+        "Source": "A6",
+        "Target": "A9"
+      }
+    }
+  }
